@@ -1,41 +1,34 @@
 ## **🫡 Invisible한 개발자 임.소.희 입니다 🐰**
 
-             **🙏 핵심경험**                
+**🙏 핵심경험**                
 
-                  💫 React 프레임워크 기반 개발
+💫 React 프레임워크 기반 개발
 
-                  💫 Redux/Recoil을 활용한 전역상태관리
+💫 Redux/Recoil을 활용한 전역상태관리
 
-                  💫 React Qurey를 활용한 데이터패칭
+💫 React Qurey를 활용한 데이터패칭
 
-                  💫 React Qurey 활용해 무한스크롤 구현경험
+💫 React Qurey 활용해 무한스크롤 구현경험
 
-                  💫 Styled component를 이용한 스타일링
+💫 Styled component를 이용한 스타일링
 
-                  💫  고객 피드백을 반영한 유지보수
+💫  고객 피드백을 반영한 유지보수
+**[https://www.notion.so/TEST-feedback-26dea6d446924ecea15b5b70ea77b700]**
 
-                         **[https://www.notion.so/TEST-feedback-26dea6d446924ecea15b5b70ea77b700](https://www.notion.so/TEST-feedback-26dea6d446924ecea15b5b70ea77b700)**
 
-             **🙏  프로젝트 경험**                      
 
-###                   👍 **CA-NYA ( 카페리뷰 공유 서비스 )**
 
-[##_Image|kage@dN8rP6/btrVjO4HzNU/5stSoCK2lYnLokEZmTDW7K/img.png|CDM|1.3|{"originWidth":400,"originHeight":400,"style":"alignCenter","filename":"edited_20221208_카냐_모바일_800_2.jpg"}_##]
+**🙏  프로젝트 경험**                      
 
-                  ’22.12, 6주, 팀 프로젝트(front:2, back:3,designer:1)
+###👍 **CA-NYA ( 카페리뷰 공유 서비스 )**
 
-                  기술: React, Axios, Redux toolkit, Java-script, React query, Styled component, Figma, css
+’22.12, 6주, 팀 프로젝트(front:2, back:3,designer:1)
 
-                  [https://github.com/Ca-Nya/final\_project\_frontend](https://github.com/Ca-Nya/final_project_frontend)
+기술: React, Axios, Redux toolkit, Java-script, React query, Styled component, Figma, css
 
- [GitHub - Ca-Nya/final\_project\_frontend
+[https://github.com/Ca-Nya/final\_project\_frontend](https://github.com/Ca-Nya/final_project_frontend)
 
-Contribute to Ca-Nya/final\_project\_frontend development by creating an account on GitHub.
-
-github.com](https://github.com/Ca-Nya/final_project_frontend)
-
-  카페를 별점과 사진으로 평가하는 CRUD기반의 리뷰사이트 
-
+-   카페를 별점과 사진으로 평가하는 CRUD기반의 리뷰사이트 
 -   로그인/회원가입 Redux-toolkit을 활용한 기능구현 
 -   커뮤니티CRUD, 마이페이지CRUD, 댓글CRUD, 좋아요 기능 
 -   태블릿/데스크탑 반응형 웹페이지 개발
@@ -46,9 +39,9 @@ github.com](https://github.com/Ca-Nya/final_project_frontend)
 
 ---
 
-###                   👍**코딩애플 클론코딩**
+###👍**코딩애플 클론코딩**
 
-**[https://youtu.be/39eEMG\_bjvU](https://youtu.be/39eEMG_bjvU)**                       
+**[https://youtu.be/39eEMG\_bjvU]**                       
 
 <iframe src="https://www.youtube.com/embed/39eEMG_bjvU" width="860" height="484" frameborder="0" allowfullscreen="true"></iframe>
 
