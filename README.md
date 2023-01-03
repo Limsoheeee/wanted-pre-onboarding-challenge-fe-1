@@ -41,21 +41,13 @@
 
 ###👍**코딩애플 클론코딩**
 
-**[https://youtu.be/39eEMG\_bjvU]**                       
+**[https://youtu.be/39eEMG\_bjvU]**                  
 
-<iframe src="https://www.youtube.com/embed/39eEMG_bjvU" width="860" height="484" frameborder="0" allowfullscreen="true"></iframe>
+’22.11, 1주,  팀 프로젝트(front:3, back:3)
 
-                  ’22.11, 1주,  팀 프로젝트(front:3, back:3)
+기술: React, Axios, Redux toolkit, Java-script,  Styled component, Figma, css
 
-                  기술: React, Axios, Redux toolkit, Java-script,  Styled component, Figma, css
-
-                  [](https://github.com/HangHae99-Clone-Coding-Galaxy/FE)[https://github.com/HangHae99-Clone-Coding-Galaxy/FE](https://github.com/HangHae99-Clone-Coding-Galaxy/FE)
-
- [GitHub - HangHae99-Clone-Coding-Galaxy/FE
-
-Contribute to HangHae99-Clone-Coding-Galaxy/FE development by creating an account on GitHub.
-
-github.com](https://github.com/HangHae99-Clone-Coding-Galaxy/FE)
+[https://github.com/HangHae99-Clone-Coding-Galaxy/FE](https://github.com/HangHae99-Clone-Coding-Galaxy/FE)
 
 -   온라인 교육서비스 사이트 클론코딩
 -   영상업로드와 관리자페이지를 별도 제작한 웹페이지
@@ -64,23 +56,16 @@ github.com](https://github.com/HangHae99-Clone-Coding-Galaxy/FE)
 
 ---
 
-###                   👍 **OTT review You** 
+###👍 **OTT review You** 
 
-[https://www.youtube.com/watch?v=ediOPXkSu7s](https://www.youtube.com/watch?v=ediOPXkSu7s) 
+[https://www.youtube.com/watch?v=ediOPXkSu7s]
 
-<iframe src="https://www.youtube.com/embed/ediOPXkSu7s" width="860" height="484" frameborder="0" allowfullscreen="true"></iframe>
 
-                    ’22.11, 1주, 팀 프로젝트(front:2, back:3)
+’22.11, 1주, 팀 프로젝트(front:2, back:3)
 
-                   기술: React, Axios, Redux toolkit, Java-script,  Styled component, Figma, css
+기술: React, Axios, Redux toolkit, Java-script,  Styled component, Figma, css
 
-                   [https://github.com/KillDongMu-FrontEnd/Hanghae99-Week5-FrontEnd](https://github.com/KillDongMu-FrontEnd/Hanghae99-Week5-FrontEnd)
-
- [GitHub - KillDongMu-FrontEnd/Hanghae99-Week5-FrontEnd
-
-Contribute to KillDongMu-FrontEnd/Hanghae99-Week5-FrontEnd development by creating an account on GitHub.
-
-github.com](https://github.com/KillDongMu-FrontEnd/Hanghae99-Week5-FrontEnd)
+[https://github.com/KillDongMu-FrontEnd/Hanghae99-Week5-FrontEnd](https://github.com/KillDongMu-FrontEnd/Hanghae99-Week5-FrontEnd)
 
 -   OTT 리뷰 공유 사이트 개발
 -   웹 전용으로 사진업로드가 가능한 웹페이지  
