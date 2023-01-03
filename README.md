@@ -1,70 +1,95 @@
-# Getting Started with Create React App
+## **🫡 Invisible한 개발자 임.소.희 입니다 🐰**
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+             **🙏 핵심경험**                
 
-## Available Scripts
+                  💫 React 프레임워크 기반 개발
 
-In the project directory, you can run:
+                  💫 Redux/Recoil을 활용한 전역상태관리
 
-### `yarn start`
+                  💫 React Qurey를 활용한 데이터패칭
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+                  💫 React Qurey 활용해 무한스크롤 구현경험
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+                  💫 Styled component를 이용한 스타일링
 
-### `yarn test`
+                  💫  고객 피드백을 반영한 유지보수
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+                         **[https://www.notion.so/TEST-feedback-26dea6d446924ecea15b5b70ea77b700](https://www.notion.so/TEST-feedback-26dea6d446924ecea15b5b70ea77b700)**
 
-### `yarn build`
+             **🙏  프로젝트 경험**                      
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+###                   👍 **CA-NYA ( 카페리뷰 공유 서비스 )**
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+[##_Image|kage@dN8rP6/btrVjO4HzNU/5stSoCK2lYnLokEZmTDW7K/img.png|CDM|1.3|{"originWidth":400,"originHeight":400,"style":"alignCenter","filename":"edited_20221208_카냐_모바일_800_2.jpg"}_##]
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+                  ’22.12, 6주, 팀 프로젝트(front:2, back:3,designer:1)
 
-### `yarn eject`
+                  기술: React, Axios, Redux toolkit, Java-script, React query, Styled component, Figma, css
 
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
+                  [https://github.com/Ca-Nya/final\_project\_frontend](https://github.com/Ca-Nya/final_project_frontend)
 
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+ [GitHub - Ca-Nya/final\_project\_frontend
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
+Contribute to Ca-Nya/final\_project\_frontend development by creating an account on GitHub.
 
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
+github.com](https://github.com/Ca-Nya/final_project_frontend)
 
-## Learn More
+  카페를 별점과 사진으로 평가하는 CRUD기반의 리뷰사이트 
 
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
+-   로그인/회원가입 Redux-toolkit을 활용한 기능구현 
+-   커뮤니티CRUD, 마이페이지CRUD, 댓글CRUD, 좋아요 기능 
+-   태블릿/데스크탑 반응형 웹페이지 개발
+-   Media-query를 활용해 mobile 적응형 페이지 개발
+-   mobile 적응형 상태관리 recoil 활용한 기능구현
+-   imageCompression을 통해 이미지리사이징
+-   CSS컴포넌트를 만들고 props이름을 size화하여 컴포넌트를 재사용하여 개발 
 
-To learn React, check out the [React documentation](https://reactjs.org/).
+---
 
-### Code Splitting
+###                   👍**코딩애플 클론코딩**
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
+**[https://youtu.be/39eEMG\_bjvU](https://youtu.be/39eEMG_bjvU)**                       
 
-### Analyzing the Bundle Size
+<iframe src="https://www.youtube.com/embed/39eEMG_bjvU" width="860" height="484" frameborder="0" allowfullscreen="true"></iframe>
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
+                  ’22.11, 1주,  팀 프로젝트(front:3, back:3)
 
-### Making a Progressive Web App
+                  기술: React, Axios, Redux toolkit, Java-script,  Styled component, Figma, css
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
+                  [](https://github.com/HangHae99-Clone-Coding-Galaxy/FE)[https://github.com/HangHae99-Clone-Coding-Galaxy/FE](https://github.com/HangHae99-Clone-Coding-Galaxy/FE)
 
-### Advanced Configuration
+ [GitHub - HangHae99-Clone-Coding-Galaxy/FE
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
+Contribute to HangHae99-Clone-Coding-Galaxy/FE development by creating an account on GitHub.
 
-### Deployment
+github.com](https://github.com/HangHae99-Clone-Coding-Galaxy/FE)
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
+-   온라인 교육서비스 사이트 클론코딩
+-   영상업로드와 관리자페이지를 별도 제작한 웹페이지
+-   formdata를 통한 동영상,사진 업로드 구현
+-   강의등록, 강의 게시판 CRUD구현
 
-### `yarn build` fails to minify
+---
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+###                   👍 **OTT review You** 
+
+[https://www.youtube.com/watch?v=ediOPXkSu7s](https://www.youtube.com/watch?v=ediOPXkSu7s) 
+
+<iframe src="https://www.youtube.com/embed/ediOPXkSu7s" width="860" height="484" frameborder="0" allowfullscreen="true"></iframe>
+
+                    ’22.11, 1주, 팀 프로젝트(front:2, back:3)
+
+                   기술: React, Axios, Redux toolkit, Java-script,  Styled component, Figma, css
+
+                   [https://github.com/KillDongMu-FrontEnd/Hanghae99-Week5-FrontEnd](https://github.com/KillDongMu-FrontEnd/Hanghae99-Week5-FrontEnd)
+
+ [GitHub - KillDongMu-FrontEnd/Hanghae99-Week5-FrontEnd
+
+Contribute to KillDongMu-FrontEnd/Hanghae99-Week5-FrontEnd development by creating an account on GitHub.
+
+github.com](https://github.com/KillDongMu-FrontEnd/Hanghae99-Week5-FrontEnd)
+
+-   OTT 리뷰 공유 사이트 개발
+-   웹 전용으로 사진업로드가 가능한 웹페이지  
+-   formdata를 통한 사진업로드 구현
+-   댓글, 좋아요 CRUD구현
