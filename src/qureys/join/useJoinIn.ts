@@ -1,15 +1,20 @@
 import { useMutation } from "@tanstack/react-query";
 import { memberApis } from "../../api/axiosConfig";
 
-const useJoinIn = values => {
+interface InputType {
+  email: string;
+  password: string;
+};
+
+const useJoinIn = () => {
   return useMutation(
     {
-      mutationFn: async (values) => {        
+      mutationFn: async (values:InputType) => {        
         try {
-          const res = await memberApis.login(values);
+          const res:any  = await memberApis.login(values);
           console.log("res====>",res);
           return res;
-        } catch (error) {}
+        } catch (error:any) {}
       },
     },    
   );

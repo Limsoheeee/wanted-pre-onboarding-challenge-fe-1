@@ -1,29 +1,37 @@
-import { useState } from "react";
+import{ useState } from "react";
 import { useNavigate } from "react-router-dom";
 import { useMutation } from "@tanstack/react-query";
 import { memberApis } from "../../api/axiosConfig";
 import useJoinIn from "../../qureys/join/useJoinIn"
 import axios from "axios";
 
+
 const SignIn = () => {
     const navigate = useNavigate();
     const BASE_URL = process.env.REACT_APP_SERVER;
+
+  interface InputType {
+    email: string;
+    password: string;
+  };
+    
   const init = {
     email: "",
     password: "",
   };  
-  const [input, setInput] = useState(init);
+  const [input, setInput] = useState<InputType | null>(init); 
 
   const { mutate: signInSubmitMutate } = useJoinIn();
 
-  const onChangeHandler = (e) => {
+  const onChangeHandler = (e:React.ChangeEvent<HTMLInputElement>) => {
     const { name, value } = e.target;
     setInput({ ...input, [name]: value });
   };
 
   const onSubmitHandler = (e) =>{
     e.preventDefault();
-    signInSubmitMutate(input,{
+    signInSubmitMutate(input,
+      {
       onSuccess: (data) => {
         console.log("success", data);
         if (
@@ -41,7 +49,8 @@ const SignIn = () => {
       onError: (error) => {
         throw error;
       },
-    },   )
+    },   
+    )
   }
 
   return (
