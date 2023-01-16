@@ -1,70 +1,72 @@
-# Getting Started with Create React App
+## **🫡 Invisible한 개발자 임.소.희 입니다 🐰**
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+**🙏 핵심경험**                
 
-## Available Scripts
+💫 React 프레임워크 기반 개발
 
-In the project directory, you can run:
+💫 Redux/Recoil을 활용한 전역상태관리
 
-### `yarn start`
+💫 React Qurey를 활용한 데이터패칭
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+💫 React Qurey 활용해 무한스크롤 구현경험
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+💫 Styled component를 이용한 스타일링
 
-### `yarn test`
+💫  고객 피드백을 반영한 유지보수
+**[https://www.notion.so/TEST-feedback-26dea6d446924ecea15b5b70ea77b700]**
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
 
-### `yarn build`
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+**🙏  프로젝트 경험**                      
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+###👍 **CA-NYA ( 카페리뷰 공유 서비스 )**
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+’22.12, 6주, 팀 프로젝트(front:2, back:3,designer:1)
 
-### `yarn eject`
+기술: React, Axios, Redux toolkit, Java-script, React query, Styled component, Figma, css
 
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
+[https://github.com/Ca-Nya/final\_project\_frontend](https://github.com/Ca-Nya/final_project_frontend)
 
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+-   카페를 별점과 사진으로 평가하는 CRUD기반의 리뷰사이트 
+-   로그인/회원가입 Redux-toolkit을 활용한 기능구현 
+-   커뮤니티CRUD, 마이페이지CRUD, 댓글CRUD, 좋아요 기능 
+-   태블릿/데스크탑 반응형 웹페이지 개발
+-   Media-query를 활용해 mobile 적응형 페이지 개발
+-   mobile 적응형 상태관리 recoil 활용한 기능구현
+-   imageCompression을 통해 이미지리사이징
+-   CSS컴포넌트를 만들고 props이름을 size화하여 컴포넌트를 재사용하여 개발 
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
+---
 
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
+###👍**코딩애플 클론코딩**
 
-## Learn More
+**[https://youtu.be/39eEMG\_bjvU]**                  
 
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
+’22.11, 1주,  팀 프로젝트(front:3, back:3)
 
-To learn React, check out the [React documentation](https://reactjs.org/).
+기술: React, Axios, Redux toolkit, Java-script,  Styled component, Figma, css
 
-### Code Splitting
+[https://github.com/HangHae99-Clone-Coding-Galaxy/FE](https://github.com/HangHae99-Clone-Coding-Galaxy/FE)
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
+-   온라인 교육서비스 사이트 클론코딩
+-   영상업로드와 관리자페이지를 별도 제작한 웹페이지
+-   formdata를 통한 동영상,사진 업로드 구현
+-   강의등록, 강의 게시판 CRUD구현
 
-### Analyzing the Bundle Size
+---
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
+###👍 **OTT review You** 
 
-### Making a Progressive Web App
+[https://www.youtube.com/watch?v=ediOPXkSu7s]
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
 
-### Advanced Configuration
+’22.11, 1주, 팀 프로젝트(front:2, back:3)
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
+기술: React, Axios, Redux toolkit, Java-script,  Styled component, Figma, css
 
-### Deployment
+[https://github.com/KillDongMu-FrontEnd/Hanghae99-Week5-FrontEnd](https://github.com/KillDongMu-FrontEnd/Hanghae99-Week5-FrontEnd)
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `yarn build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+-   OTT 리뷰 공유 사이트 개발
+-   웹 전용으로 사진업로드가 가능한 웹페이지  
+-   formdata를 통한 사진업로드 구현
+-   댓글, 좋아요 CRUD구현
